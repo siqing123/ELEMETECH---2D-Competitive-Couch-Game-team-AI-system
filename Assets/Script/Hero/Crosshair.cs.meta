@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ac17e8ae31e50b645bb409ad31c40400
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _P1CrossHairs: {fileID: 4402385147274776756, guid: 8067cd5e98b64314c85901577014e523,
+      type: 3}
+  - _P2CrossHairs: {fileID: 4402385147274776756, guid: 8067cd5e98b64314c85901577014e523,
+      type: 3}
+  - _P3CrossHairs: {fileID: 4402385147274776756, guid: 8067cd5e98b64314c85901577014e523,
+      type: 3}
+  - _P4CrossHairs: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
